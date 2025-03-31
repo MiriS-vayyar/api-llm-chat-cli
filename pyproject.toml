@@ -1,0 +1,15 @@
+[project]
+name = "api-llm-chat-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=0.6.3",
+    "ollama>=0.4.7",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "rich>=14.0.0",
+    "sentence-transformers>=4.0.1",
+    "typer>=0.15.2",
+]
