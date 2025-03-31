@@ -1,7 +1,7 @@
 
 # API Chat CLI
 
-A conversational CLI assistant that translates user requests into API calls, executes them, and returns responses using Ollama, ChromaDB, and Typer. 🚀
+A conversational CLI assistant that translates user requests into API calls, executes them, and returns responses using Ollama, ChromaDB, and Typer.
 
 ## Features
 - **Natural Language Interface**: Chat with the system in natural language and receive API call results.
